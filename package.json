@@ -1,0 +1,22 @@
+{
+  "name": "mern-training",
+  "version": "1.0.0",
+  "description": "Studying MERN stack with Pro MERN book from Vasan Subramanian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiigorcosta/MERN-training.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iiigorcosta/MERN-training/issues"
+  },
+  "homepage": "https://github.com/iiigorcosta/MERN-training#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
